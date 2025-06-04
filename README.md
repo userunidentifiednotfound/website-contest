@@ -47,13 +47,13 @@ This platform aims to:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/WebCraft2025.git
+   git clone https://github.com/userunidentifiednotfound/website-contest.git
    ```
 
 2. **Navigate into the project directory:**
 
    ```bash
-   cd WebCraft2025
+   cd website-contest
    ```
 
 3. **Open `index.html` in your browser** to view the website locally.
@@ -113,8 +113,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 For any questions, suggestions, or feedback, feel free to contact:
 
-- **Your Name** — your.email@example.com  
-- **GitHub:** [https://github.com/yourusername](https://github.com/yourusername)
+- **Your Name** — karthikguttu@gmail.com 
+- **GitHub:** [https://github.com/userunidentifiednotfound](https://github.com/userunidentifiednotfound)
 
 ---
 
